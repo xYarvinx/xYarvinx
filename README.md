@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Yaroslav Vinnitskiy,18 Y.O., 1-year of studing MCS,at Far East Federal University 
+<img src="https://img.shields.io/badge/Python-DEB887?style=for-the-badge&logo=python&logoColor=black" />
 <!--
 **xYarvinx/xYarvinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
