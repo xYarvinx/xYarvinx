@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/dart-6600ff?-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%20-6600ff?-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-6600ff?-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%23%20-6600ff?-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 #
 ## _👿Contacts👿:_
