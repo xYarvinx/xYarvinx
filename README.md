@@ -1,4 +1,8 @@
 ### 🌚Yaroslav Vinnitskiy,19 Y.O., 2-year of studing MCT,at Far East Federal University 🌚
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="200"/>
+</div>
+
 #
 ## ⌨️language repository⌨️:
 #
@@ -9,6 +13,9 @@
 <img src="https://img.shields.io/badge/c%20-6600ff?-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-6600ff?-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%23%20-6600ff?-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+## _🏆Trophy🏆_
+[![trophy](https://github-profile-trophy.vercel.app/?username=xYarvinx)](https://github.com/ryo-ma/github-profile-trophy)
 
 #
 ## _👿Contacts👿:_
