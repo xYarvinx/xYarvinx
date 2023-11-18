@@ -3,17 +3,6 @@
   <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="200"/>
 </div>
 
-#
-## ⌨️language repository⌨️:
-#
-<img src="https://img.shields.io/badge/css3-6600ff?%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-6600ff?%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++-6600ff?%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img src="https://img.shields.io/badge/dart-6600ff?-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%20-6600ff?-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%20-6600ff?-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%23%20-6600ff?-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-
 ## _🏆Trophy🏆_
 [![trophy](https://github-profile-trophy.vercel.app/?username=xYarvinx)](https://github.com/ryo-ma/github-profile-trophy)
 
