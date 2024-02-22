@@ -18,9 +18,4 @@
 <a href="https://github.com/braydoncoyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=xYarvinx&show_icons=true&line_height=30&count_private=true&title_color=e6e6fa&text_color=e6e6fa&icon_color=8B4513&bg_color=6600ff" alt="GitHub Stats" />
 </a>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xYarvinx&hide=html,css&title_color=e6e6fa&text_color=e6e6fa&icon_color=6600ff&bg_color=6600ff" />
-</a>
-
 # 
