@@ -1,4 +1,4 @@
-### 🌚Yaroslav Vinnitskiy,19 Y.O., 2-year of studing MCT,at Far East Federal University 🌚
+### 🌚Yaroslav Vinnitskiy,19 Y.O., 3-year of studing MCT,at Far East Federal University 🌚
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="200"/>
 </div>
