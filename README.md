@@ -1,6 +1,6 @@
 ### 🌚Yaroslav Vinnitskiy,19 Y.O., 3-year of studing MCT,at Far East Federal University 🌚
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenprbzViMXJhYWhkOWZ0NGRqeXRtNTdxaTE4Y2h4dTd3MTM5aXg4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgTpcy4dkdUc0/giphy.gif" width="600"/>
 </div>
 
 # 💻 Tech Stack:
